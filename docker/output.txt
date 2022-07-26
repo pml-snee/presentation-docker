@@ -1,0 +1,7 @@
+time
+latitude
+longitude
+latitude_longitude
+harmful
+unknown
+harmful_un
